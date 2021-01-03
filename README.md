@@ -18,7 +18,11 @@ Procedural...
 
 ## Roadmap (Execution based on Compiler/Transpiler)
 
-### 1. Language formal definition and Building Lexers [PHASE 'ANALYSIS']
+### 0. Designing the Language [PHASE 'DESIGNING']
+
+...
+
+### 1. Building Lexers [PHASE 'ANALYSIS']
 
 #### In C++ using standard library only
 
